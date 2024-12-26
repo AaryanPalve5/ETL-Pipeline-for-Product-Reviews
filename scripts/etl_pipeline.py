@@ -4,9 +4,9 @@ from extract import extract_csv, extract_json, extract_txt
 from transform import normalize_data, clean_data, add_sentiment_column
 from load import load_to_db, execute_query
 
-source_a_file = os.path.join('data', 'source_a_data.csv')
-source_b_file = os.path.join('data', 'source_b_data.json')
-source_c_file = os.path.join('data', 'source_c_data.txt')
+source_a_file = os.path.join('data', 'source_a.csv')
+source_b_file = os.path.join('data', 'source_b.json')
+source_c_file = os.path.join('data', 'source_c.txt')
 db_path = 'product_reviews.db'
 
 def run_etl():

@@ -1,7 +1,0 @@
-review_id,product_id,customer_id,rating,review_date,review_text
-1,101,1001,5,2024-12-01,Excellent product, very useful!
-2,102,1002,4,2024-12-02,Good quality, but could be cheaper.
-3,103,1003,3,2024-12-03,Average product, met expectations.
-4,104,1004,2,2024-12-04,Not satisfied, expected better quality.
-5,105,1005,1,2024-12-05,Very poor quality, won't buy again.
-
