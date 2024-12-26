@@ -1,0 +1,5 @@
+pandas
+requests
+textblob
+sqlalchemy
+sqlite3
