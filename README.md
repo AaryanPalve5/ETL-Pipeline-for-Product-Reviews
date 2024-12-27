@@ -1,5 +1,3 @@
-# Data_engineer_intern_assessment
-
 # ETL Pipeline for Product Reviews
 
 This project involves extracting, transforming, and loading (ETL) product review data from multiple sources into a database to provide actionable insights.
