@@ -4,7 +4,7 @@ import random
 from datetime import datetime, timedelta
 from textblob import TextBlob
 
-# Helper function to generate random data
+# Helper function to generate mock data
 def generate_random_data():
     products = [101, 102, 103, 104, 105]
     customers = [1001, 1002, 1003, 1004, 1005]
